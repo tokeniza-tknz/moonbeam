@@ -5,6 +5,14 @@ Below is the documentation describing the **purpose** and **functions** of each 
 
 ---
 
+## Transaction and Minting Process
+
+**For a detailed explanation of how off-chain funding, minting, and transaction processing work, please see [PROCESS.md](./PROCESS.md).**
+
+This supplemental document explains the off-chain logic that orchestrates these on-chain contracts and clarifies why key functions (like `mint`) are access-controlled by the Tokeniza platform.
+
+---
+
 ## 1. MyToken.sol
 
 ### Purpose
